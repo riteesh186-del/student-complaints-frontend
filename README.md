@@ -1,7 +1,11 @@
 # Student Complaints Portal: Frontend
 
 React + Vite single-page app. Students submit and track complaints; administrators log in to review, reply to, update and delete them.
-Backend repository: the separate Spring Boot API this app calls.
+
+## Links
+- Backend repository: https://github.com/riteesh186-del/student-complaints-backend
+- Live website: https://student-complaints-frontend.onrender.com
+- Live API: https://student-complaints-portal.onrender.com/api/complaints (the free host sleeps when idle, so the first request can take up to a minute)
 
 ## Configuration
 | Variable | Purpose | Default |
